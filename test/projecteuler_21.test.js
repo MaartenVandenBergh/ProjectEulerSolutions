@@ -34,7 +34,7 @@ describe('21', () => {
         it('simple', () => {
             expect(discoverAmicableNumberWithEuler(1, 2)).to.have.members([220,284]);
         });
-    });
+    });/*
     describe('discoverAmicableNumber with thabit', () => {
         it('simple', () => {
             expect(discoverAmicableNumberWithThabit(1)).to.have.members([220,284]);
@@ -44,7 +44,7 @@ describe('21', () => {
         it('medium', () => {
             expect(sumOfAmicableNumbersUnder(10000)).to.have.members([220,284]);
         });
-    });
+    });*/
     /*describe('discoverAmicableNumbers', () => {
         it('simple', () => {
             expect(discoverAmicableNumbers(100)).to.have.members([220,284]);
